@@ -1,1 +1,1 @@
-# git_exer
+Initial project documentation
